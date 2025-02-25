@@ -6,9 +6,7 @@
  */
 
 .wp-block-custom-blocks-main-nav {
-	background-color: #21759b;
-	color: #fff;
-	padding: 2px;
+	background-color: var(--wp--preset--color--primary);
 
 	ul {
 		height: 60px;
