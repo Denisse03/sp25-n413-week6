@@ -49,7 +49,9 @@ export default function Edit() {
 					</a>
 				</li>
 				<li>
-					<a href="#">Instructors</a>
+					<a href="/wp-content/themes/collinsblock/templates/page-instructors.html">
+						Instructors
+					</a>
 				</li>
 			</ul>
 		</nav>

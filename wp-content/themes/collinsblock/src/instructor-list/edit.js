@@ -35,15 +35,16 @@ export default function Edit() {
 			<div>
 				<figure>
 					<img
-						src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvN9ZKiM3CVwbyhm6L-Zj3jf5MqsrTtMx00w&s"
+						src="https://picsum.photos/400"
 						alt="Random Image used as profile"
 					/>
 				</figure>
-				<h4>Instructor Sarah Collins</h4>
-				<p>
+				<h4>Instructor Sarah Collin</h4>
+
+				<h6>
 					Sarah Collins is a passionate music educator who has been teaching
 					piano and guitar for over 15 years.
-				</p>
+				</h6>
 
 				<p>Instruments: Piano, Guitar</p>
 			</div>

@@ -20,7 +20,72 @@
 			"background": "var:preset|color|background",
 			"text": "var:preset|color|text"
 		},
-		"elements": {},
-		"blocks": {}
+		"elements": {
+			"h1": {
+				"color": {
+					"text": " #4d361b"
+				}
+			},
+
+			"h3": {
+				"spacing": {
+					"padding": {
+						"left": "300px"
+					}
+				},
+				"color": {
+					"text": " #4d361b"
+				}
+			},
+			"button": {
+				"color": {
+					"background": "#4d361b"
+				},
+				"spacing": {
+					"margin": {
+						"left": "700px"
+					}
+				}
+			},
+			"h4": {
+				"spacing": {
+					"padding": {
+						"left": "300px"
+					}
+				},
+				"color": {
+					"text": " #4d361b"
+				}
+			},
+			"h5": {
+				"spacing": {
+					"padding": {
+						"left": "300px"
+					}
+				},
+				"color": {
+					"text": " #4d361b"
+				}
+			}
+		},
+		"blocks": {
+			"core/paragraph": {
+				"spacing": {
+					"padding": {
+						"left": "300px"
+					}
+				}
+			},
+			"core/list": {
+				"spacing": {
+					"padding": {
+						"left": "350px"
+					}
+				},
+				"color": {
+					"text": " #4d361b"
+				}
+			}
+		}
 	}
 }
